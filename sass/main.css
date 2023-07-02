@@ -16,7 +16,7 @@ body::-webkit-scrollbar {
   background-color: #242a35;
 }
 body::-webkit-scrollbar-thumb {
-  background-color: #ff5e00;
+  background-color: #ff9800;
 }
 body.no-scroll {
   overflow: hidden;
@@ -161,7 +161,7 @@ html {
 .header {
   width: 100vw;
   height: 100vh;
-  background: url("../assets/images/header-bg.jpg") center/cover no-repeat;
+  background: url("../assets/images/wireframe.avif") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -448,6 +448,15 @@ html {
   max-width: 800px;
   color: #6c757d;
 }
+.about-tab__img{
+  width: 150px;
+  margin-bottom: 50px;
+  border-radius: 50%;
+  border: 5px solid rgb(235, 232, 232);
+  box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.6), 0 6px 20px 0 rgba(0, 0, 0, 0.19);;
+
+}
+
 @media screen and (max-width: 768px) {
   .about-section__tab-content .about-tab__img {
     width: 175px;
