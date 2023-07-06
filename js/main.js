@@ -203,42 +203,30 @@ const icons = {
 
 const projectData = [
   {
-    title: "Bug Tracker",
-    type: "Personal Project",
-    desc: "A full stack web application with various features like creating projects, authentication, user roles, creating tickets for individual projects and more. This application is hosted on Heroku so it will take a second to spin up.",
+    title: "Maasai Village",
+    type: "Personal Ecommerce Project",
+    desc: "The Maasai Artifact Ecommerce Website is a React-based application that offers a platform for selling a wide range of authentic Maasai artifacts. From traditional spears and shields to jewelry and clothing, this website allows users to explore and purchase Maasai cultural items. The user interface is designed to provide an immersive experience and showcase the rich heritage of the Maasai people.",
     tech: [
       {
         icon: icons.react,
         text: "React",
       },
       {
-        icon: icons.node,
-        text: "Node.js",
+        icon: icons.html,
+        text: "HTML 5",
       },
       {
-        icon: icons.express,
-        text: "Express.js",
-      },
-      {
-        icon: icons.mongodb,
-        text: "MongoDB",
-      },
-      {
-        icon: icons.ts,
-        text: "TypeScript",
+        icon: icons.js,
+        text: "JavaScript",
       },
       {
         icon: icons.sass,
         text: "Sass",
       },
-      {
-        icon: icons.mobx,
-        text: "MobX",
-      },
     ],
-    liveProject: "https://blake-bug-tracker.herokuapp.com/",
-    srcCode: "https://github.com/Blake-K-Yeboah/bug-tracker",
-    backgroundImg: "bug_tracker.jpg",
+    liveProject: "https://maasaivillage.vercel.app/",
+    srcCode: "https://github.com/LewistechKe/MaasaiVillage",
+    backgroundImg: "maasai_village.png",
   },
   {
     title: "SLS Concrete Coatings",
@@ -266,8 +254,8 @@ const projectData = [
         text: "GSAP",
       },
     ],
-    liveProject: "https://www.slsconcretecoatings.com.au/",
-    srcCode: "https://github.com/Blake-K-Yeboah/sls-concrete-coatings",
+    liveProject: "",
+    srcCode: "",
     backgroundImg: "sls_concrete_coatings.jpg",
   },
   {
@@ -300,38 +288,42 @@ const projectData = [
         text: "Redux",
       },
     ],
-    liveProject: "https://blake-financial-portal.herokuapp.com/",
-    srcCode: "https://github.com/Blake-K-Yeboah/financial-portal",
+    liveProject: "",
+    srcCode: "",
     backgroundImg: "financial_portal.jpg",
   },
   {
-    title: "PicByAdam",
-    type: "Freelance Project",
-    desc: "A front end static website for a client called 'PicByAdam' with a clean, effective design. This project highlights the client's exception photography and leaves an impression the user won't forget.",
+    title: "Police Case Docket System",
+    type: "Personal Project",
+    desc: "A digital platform to help manage and organize police cases. Built it using React, Tailwind, CSS and react-form-hooks using YUP and Node.js for the backend. This project utilizes SQL database I created.",
     tech: [
       {
         icon: icons.html,
-        text: "HTML",
+        text: "HTML 5",
       },
       {
-        icon: icons.sass,
-        text: "Sass",
+        icon: icons.express,
+        text: "Express.Js",
       },
       {
-        icon: icons.js,
-        text: "JavaScript",
+        icon: icons.react,
+        text: "React",
+      },
+      {
+        icon: icons.node,
+        text: "Node.Js",
       },
       {
         icon: icons.gsap,
         text: "GSAP",
       },
     ],
-    liveProject: "https://sleepy-davinci-67d2f0.netlify.app/",
-    srcCode: "https://github.com/Blake-K-Yeboah/pic-by-adam",
-    backgroundImg: "picbyadam.jpg",
+    liveProject: "https://case-docket-frontend.vercel.app/",
+    srcCode: "https://github.com/LewistechKe/CaseDocket-Frontend",
+    backgroundImg: "case_docket.png",
   },
   {
-    title: "Code Network",
+    title: "Social Network",
     type: "Open Source Project",
     desc: "An open-source web app made for a hackathon hosted by Hashnode. Built with React, MongoDB and Netlify Functions (similar to AWS Lambda Functions). It was styled with the Tailwind CSS library as well as framer motion for animations.",
     tech: [
@@ -352,8 +344,8 @@ const projectData = [
         text: "Tailwind CSS",
       },
     ],
-    liveProject: "https://codenetwork.netlify.app/",
-    srcCode: "https://github.com/Blake-K-Yeboah/code-network",
+    liveProject: "",
+    srcCode: "",
     backgroundImg: "code_network.jpg",
   },
 ];
