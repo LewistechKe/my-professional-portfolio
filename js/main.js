@@ -195,6 +195,8 @@ const icons = {
     <path d="M13.4063 6.74489C13.4959 6.79061 13.5791 6.85236 13.6468 6.92717L15.5058 6.09829L13.7714 4.37879L13.3813 6.71995L13.4063 6.74489ZM9.54691 5.18273C9.63953 5.3187 9.69475 5.47307 9.71375 5.63695L12.4812 6.80961C12.5643 6.74489 12.6599 6.69798 12.7621 6.67007L13.2163 3.85867L11.5306 2.08989L9.54572 5.13879L9.54691 5.18273ZM18.9935 9.52779L16.0277 6.56201L14.0083 7.38792L18.9691 9.49692C18.9691 9.49692 19.0125 9.52779 18.9935 9.52779ZM18.4989 10.0105L13.737 7.97514C13.6707 8.06288 13.5876 8.1365 13.4924 8.19166C13.3973 8.24683 13.2921 8.28242 13.183 8.29636L12.673 11.4296C12.8244 11.5839 12.9111 11.7912 12.9111 12.0073L15.7866 12.6105L18.4247 9.99092V9.94164L18.4989 10.0105ZM12.1903 7.32261L9.60569 6.2212C9.51679 6.358 9.39401 6.46948 9.24929 6.5448C9.10457 6.62013 8.94283 6.65674 8.77978 6.65107H8.62244L6.47959 9.95707L12.2004 7.47995V7.48648C12.1974 7.4422 12.1974 7.39776 12.2004 7.35348C12.2033 7.34398 12.2004 7.33211 12.1909 7.32261H12.1903ZM15.3324 13.1093L12.803 12.5862C12.7091 12.7093 12.5826 12.8037 12.4379 12.8587L11.8346 16.5976L15.3478 13.1152C15.3478 13.1152 15.3413 13.1342 15.3318 13.1342L15.3324 13.1093ZM11.7943 12.8516C11.6744 12.8026 11.5678 12.7261 11.4829 12.6283C11.398 12.5306 11.3373 12.4143 11.3056 12.2887L6.59597 11.3215L6.52769 11.4302L10.8021 17.6117L11.0586 17.3582L11.7853 12.8676C11.7853 12.8676 11.8097 12.886 11.7943 12.8771V12.8516ZM6.69513 10.7521L11.3495 11.711C11.4163 11.594 11.5106 11.4951 11.6244 11.423C11.7381 11.3509 11.8678 11.3077 12.0021 11.2972L12.5062 8.21679L12.3975 8.12417L6.612 10.6043C6.64288 10.65 6.67078 10.6999 6.69513 10.7521V10.7521ZM4.74347 11.5281L4.64431 11.4302L2.63744 12.2549L3.61119 13.2233L4.71853 11.5038L4.74347 11.5281ZM6.06753 11.844C5.92761 11.907 5.77626 11.9408 5.62281 11.9432C5.49872 11.9432 5.38116 11.9242 5.26359 11.8844L4.04225 13.6627L9.39847 18.969L10.3413 18.0315L6.06753 11.844ZM5.31584 9.75342C5.396 9.74451 5.47972 9.74451 5.56285 9.75342C5.6531 9.74154 5.74572 9.74154 5.83538 9.75342L7.99959 6.38864C7.83101 6.21321 7.73677 5.97941 7.73656 5.73611C7.72766 5.66434 7.72766 5.59175 7.73656 5.51998L5.10803 4.30457L2.9925 6.3637L5.31584 9.75342ZM5.55453 3.89311L8.11775 4.98501C8.30287 4.83041 8.53878 4.75001 8.77978 4.75939C8.88488 4.76236 8.98938 4.77779 9.0915 4.80867L11.093 1.68554L9.43825 0.0307617L5.55453 3.84323C5.55453 3.84323 5.548 3.88361 5.55453 3.89311V3.89311ZM4.59563 10.3567C4.64788 10.2611 4.71259 10.1714 4.78741 10.0907L2.59469 6.81851L0.000595093 9.33898L4.59563 10.3567ZM4.38841 10.91L0.420376 10.0812L2.16422 11.8505L4.36347 10.9166L4.38841 10.91Z" fill="#666666"/>
     </svg>
     `,
+  css: `<svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M480 32l-64 368-223.3 80L0 400l19.6-94.8h82l-8 40.6L210 390.2l134.1-44.4 18.8-97.1H29.5l16-82h333.7l10.5-52.7H56.3l16.3-82H480z"/></svg>
+  `,  
   tailwind: `<svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M4.75 7.59506C5.38316 5.0553 6.96684 3.78516 9.5 3.78516C13.3 3.78516 13.775 6.64258 15.675 7.1188C16.9418 7.43646 18.05 6.96023 19 5.69009C18.3668 8.22986 16.7832 9.5 14.25 9.5C10.45 9.5 9.975 6.64258 8.075 6.16635C6.80816 5.8487 5.7 6.32492 4.75 7.59506ZM0 13.3099C0.63316 10.7701 2.21684 9.5 4.75 9.5C8.55 9.5 9.025 12.3574 10.925 12.8336C12.1918 13.1513 13.3 12.6751 14.25 11.4049C13.6168 13.9447 12.0332 15.2148 9.5 15.2148C5.7 15.2148 5.225 12.3574 3.325 11.8812C2.05816 11.5635 0.95 12.0398 0 13.3099Z" fill="#666666"/>
     </svg>
@@ -220,8 +222,8 @@ const projectData = [
         text: "JavaScript",
       },
       {
-        icon: icons.sass,
-        text: "Sass",
+        icon: icons.css,
+        text: "css",
       },
     ],
     liveProject: "https://maasaivillage.vercel.app/",
@@ -229,34 +231,26 @@ const projectData = [
     backgroundImg: "maasai_village.png",
   },
   {
-    title: "SLS Concrete Coatings",
-    type: "Freelance Project",
+    title: "Watch Ecommerce",
+    type: "Personal Project",
     desc: 'A front end website for a client called "SLS Concrete Coatings" with an attractive design. This project was built to highlight their services and help establish their brand. The client was exceptionally impressed with the results this project has brought.',
     tech: [
       {
-        icon: icons.react,
-        text: "React",
+        icon: icons.html,
+        text: "HTML",
       },
       {
-        icon: icons.next,
-        text: "Next.js",
+        icon: icons.js,
+        text: "JavaScript",
       },
       {
-        icon: icons.ts,
-        text: "TypeScript",
-      },
-      {
-        icon: icons.sass,
-        text: "Sass",
-      },
-      {
-        icon: icons.gsap,
-        text: "GSAP",
+        icon: icons.css,
+        text: "CSS",
       },
     ],
-    liveProject: "",
-    srcCode: "",
-    backgroundImg: "sls_concrete_coatings.jpg",
+    liveProject: "https://watch-ecommerce.vercel.app/",
+    srcCode: "https://github.com/LewistechKe/Watch-Ecommerce",
+    backgroundImg: "watch.png",
   },
   {
     title: "Financial Portal",
@@ -295,9 +289,9 @@ const projectData = [
   {
     title: "Police Case Docket System",
     type: "Personal Project",
-    desc: "A digital platform to help manage and organize police cases. Built it using React, Tailwind, CSS and react-form-hooks using YUP and Node.js for the backend. This project utilizes SQL database I created.",
+    desc: "A digital platform to help manage and organize police cases. Built it using React, JavaScript, CSS and react-form-hooks using YUP and Node.js for the backend. This project utilizes SQL database I created. Additionally the project is hosted on Microsoft Azure",
     tech: [
-      {
+      {  
         icon: icons.html,
         text: "HTML 5",
       },
@@ -321,6 +315,28 @@ const projectData = [
     liveProject: "https://case-docket-frontend.vercel.app/",
     srcCode: "https://github.com/LewistechKe/CaseDocket-Frontend",
     backgroundImg: "case_docket.png",
+  },
+  {
+    title: "e-portfolio",
+    type: "Personal Project",
+    desc: "A digital portfolio to display my CV in a digital manner. Built it using Html, CSS and JavaScript",
+    tech: [
+      {
+        icon: icons.html,
+        text: "HTML 5",
+      },
+      {
+        icon: icons.css,
+        text: "CSS",
+      },
+      {
+        icon: icons.js,
+        text: "JavaScript",
+      },
+    ],
+    liveProject: "https://lewistechke.github.io/lewis-digital-resume/",
+    srcCode: "https://github.com/LewistechKe/CaseDocket-Frontend",
+    backgroundImg: "e-portfolio.png",
   },
   {
     title: "Social Network",
@@ -434,7 +450,7 @@ const readPostIcon = `<svg width="10" height="10" viewBox="0 0 10 10" fill="none
 const fetchBlogPosts = async () => {
   const query = `
     query GetUserArticles($page: Int!) {
-        user(username: "BlakeYeboah") {
+        user(username: "Lewistech") {
             publication {
                 posts(page: $page) {
                     title
@@ -468,7 +484,7 @@ const fetchBlogPosts = async () => {
         <div class="blog-section__post">
             <h4 class="blog-section__post-title">${article.title}</h4>
             <p class="blog-section__post-brief">${desc}...</p>
-            <a href="https://blog.blakeyeboah.com/${article.slug}" target="_blank" class="blog-section__post-read-post">READ POST ${readPostIcon}</a>
+            <a href="https://lewistech.hashnode.com/${article.slug}" target="_blank" class="blog-section__post-read-post">READ POST ${readPostIcon}</a>
         </div>
     `;
   });
